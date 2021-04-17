@@ -56,6 +56,8 @@ swapi.getStarship(10)
         console.log(err);
     })
 
+console.log("some comm");
+
 // -----------------------------------------------------------------------
 
 // fetch('https://swapi.dev/api/people/1')
