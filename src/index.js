@@ -58,6 +58,8 @@ swapi.getStarship(10)
 
 console.log("some comm");
 
+console.log("maore changes");
+
 // -----------------------------------------------------------------------
 
 // fetch('https://swapi.dev/api/people/1')
