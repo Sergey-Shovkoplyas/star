@@ -1,0 +1,12 @@
+.random-planet {
+    border: 1px solid #444;
+    padding: 32px;
+    border-radius: 16px;
+    background: #303030;
+}
+
+.random-planet__preview {
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+}
