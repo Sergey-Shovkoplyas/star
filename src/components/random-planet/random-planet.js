@@ -21,7 +21,6 @@ class RandomPlanet extends React.Component {
 
         this._onPlanetLoaded = this._onPlanetLoaded.bind(this);
         this._onError = this._onError.bind(this);
-
         this._updatePlanet();
     }
 
